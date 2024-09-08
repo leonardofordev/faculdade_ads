@@ -16,4 +16,4 @@ Aqui você encontrará:
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/[seu-usuario]/[nome-do-repositorio].git
+  git clone https://github.com/leonardofordev/faculdade_ads.git
